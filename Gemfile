@@ -40,7 +40,7 @@ gem "figaro"
 gem 'bootsnap', '>= 1.1.0', require: false
 
 # add bootstrap for styling
-gem 'bootstrap-sass', '~> 3.3.6'
+gem "bootstrap-sass", ">= 3.4.1"
 
 # Add jquery
 gem 'jquery-rails'
